@@ -1,0 +1,23 @@
+{
+  "name": "wagglegammy-crimson-dusk",
+  "displayName": "Crimson Dusk",
+  "publisher": "wagglegammy",
+  "icon": "icon.png",
+  "description": "Crimson Dusk is a carefully crafted VS Code theme designed to reduce eye strain and provide a calm, distraction-free coding experience.",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crimson Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crimson-dusk-color-theme.json"
+      }
+    ]
+  }
+}
