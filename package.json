@@ -4,12 +4,31 @@
   "publisher": "wagglegammy",
   "icon": "icon.png",
   "description": "Crimson Dusk is a carefully crafted VS Code theme designed to reduce eye strain and provide a calm, distraction-free coding experience.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.110.0"
   },
   "categories": [
     "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#3B0D11",
+    "theme": "dark"
+  },
+  "screenshots": [
+    {
+      "path": "preview.png",
+      "caption": "Crimson Dusk Theme Preview"
+    }
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "maroon",
+    "aesthetic",
+    "eye friendly",
+    "night theme",
+    "vscode theme"
   ],
   "contributes": {
     "themes": [
