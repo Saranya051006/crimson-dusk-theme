@@ -15,7 +15,7 @@ A carefully crafted **maroon-based dark theme** designed for **comfort, focus, a
 
 ## 🎨 Preview
 
-![Preview](./preview.png)
+![Crimson Dusk Preview](https://raw.githubusercontent.com/Saranya051006/crimson-dusk-theme/main/preview.png)
 
 ---
 
